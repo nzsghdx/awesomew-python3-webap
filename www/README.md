@@ -7,3 +7,4 @@ A simple and stupid python webapp tutorial.
 还有个小问题，空文件夹并不会会被提交到github repository。
 
 现在是在master branch，git玩起来还是不怎么顺畅，应该放在day-01 branch来着。
+一般还是要合并的，因为这只是个小项目，没有庞大到用很多分之来展示。
